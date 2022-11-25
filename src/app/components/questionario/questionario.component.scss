@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://images3.alphacoders.com/853/thumb-1920-85329.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+
+table {
+    width: 50%;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+}
+
+table, th, td {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(61, 61, 61);
+    text-align: center;
+    color: #ffffff;
+}
